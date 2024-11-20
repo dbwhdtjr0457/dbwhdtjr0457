@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwhdtjr0457) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwhdtjr0457&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwhdtjr0457&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwhdtjr0457) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbwhdtjr0457)](https://solved.ac/dbwhdtjr0457)
 
