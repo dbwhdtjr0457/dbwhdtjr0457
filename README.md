@@ -1,4 +1,4 @@
-# Welcome to Joyoo's Github
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to-nl-Joyoo's%20Github&fontSize=80)
 
 <!--
 **dbwhdtjr0457/dbwhdtjr0457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwhdtjr0457&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwhdtjr0457) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbwhdtjr0457)](https://solved.ac/dbwhdtjr0457)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwhdtjr0457) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbwhdtjr0457)](https://solved.ac/dbwhdtjr0457)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwhdtjr0457&show_icons=true&theme=radical)
 
 
