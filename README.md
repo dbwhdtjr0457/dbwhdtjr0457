@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to-nl-Joyoo's%20Github&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Joyoo's%20Github&fontSize=50&fontAlignY=45&animation=fadeIn)
 
 <!--
 **dbwhdtjr0457/dbwhdtjr0457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
